@@ -54,7 +54,7 @@ const ContactPage = () => {
       content: [
         '123 Event Street',
         'Suite 456',
-        'City, State 12345',
+        'Bengaluru City, State 12345',
       ],
     },
     {

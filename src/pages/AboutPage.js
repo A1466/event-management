@@ -23,9 +23,9 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 const AboutPage = () => {
   const teamMembers = [
     {
-      name: 'Sarah Johnson',
+      name: 'Adithya K',
       role: 'Founder & CEO',
-      bio: 'With over 15 years of experience in event planning, Sarah founded our company with a vision to create unforgettable moments.',
+      bio: 'With over 15 years of experience in event planning, Adithya founded our company with a vision to create unforgettable moments.',
       image: '/images/team/sarah.jpg',
       expertise: ['Strategic Planning', 'Team Leadership', 'Client Relations'],
     },
